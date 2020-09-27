@@ -1,2 +1,4 @@
 
-<img src="https://androidweekly.net/issues/issue-433/badge" href="https://androidweekly.net/issues/issue-433">
+<a href = "https://androidweekly.net/issues/issue-433">
+  <img src="https://androidweekly.net/issues/issue-433/badge">
+</a>
