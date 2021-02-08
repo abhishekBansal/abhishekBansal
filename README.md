@@ -12,4 +12,5 @@
     - [Droidcon Community Platform](https://www.droidcon.com/news-detail?content-id=/repository/collaboration/Groups/spaces/droidcon_hq/Documents/public/news/android-news/Automated,%20on-demand%20benchmarking%20of%20Android%20Gradle%20builds%20with%20Github%20Actions)
     
 4. [Fast migration from Kotlin Synthetics to View Binding- Tips and Tricks](https://abhishekbansal.dev/synthetics-to-viewbinding/)
+    - [Android Weekly Issue-452](https://androidweekly.net/issues/issue-452) <a href = "https://androidweekly.net/issues/issue-452"> <img src="https://androidweekly.net/issues/issue-452/badge"></a>
     - [Featured in OnCreate Digest issue #42](https://www.oncreatedigest.com/issues/oncreate-digest-issue-42-316164)
