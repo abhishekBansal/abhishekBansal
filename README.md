@@ -14,3 +14,5 @@
 4. [Fast migration from Kotlin Synthetics to View Binding- Tips and Tricks](https://abhishekbansal.dev/synthetics-to-viewbinding/)
     - [Android Weekly Issue-452](https://androidweekly.net/issues/issue-452) <a href = "https://androidweekly.net/issues/issue-452"> <img src="https://androidweekly.net/issues/issue-452/badge"></a>
     - [Featured in OnCreate Digest issue #42](https://www.oncreatedigest.com/issues/oncreate-digest-issue-42-316164)
+    - [Featured in Awesome Android issue #242](https://android.libhunt.com/newsletter/242)
+    - [Droidcon Community Platfor](https://www.droidcon.com/news-detail?content-id=/repository/collaboration/Groups/spaces/droidcon_hq/Documents/public/news/android-news/Fast%20migration%20from%20Kotlin%20Synthetics%20to%20View%20Binding-%20Tips%20and%20Tricks)
